@@ -380,3 +380,9 @@ footer{
   color: #fff;
   text-decoration: none;
 }
+f-head h1 {
+  font-family: rejoy;
+  font-size: 26.25vw;
+  font-weight: 100;
+  line-height: 16vw;
+}
