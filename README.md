@@ -8,7 +8,7 @@ A **pixel-perfect frontend clone** of [Rejouice.com](https://rejouice.com), buil
 
 ## 🔥 Features
 
-- 🎨 Pixel-perfect UI with responsive design
+- 🎨 Pixel-perfect UI with responsive designs
 - 🎞️ GSAP-powered animations and scroll effects
 - ⚡ Smooth transitions and hover interactions
 - 📱 Mobile-friendly layout with optimized performance
