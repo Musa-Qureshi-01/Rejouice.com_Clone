@@ -2,7 +2,7 @@
 
 A **pixel-perfect frontend clone** of [Rejouice.com](https://rejouice.com), built with modern web technologies to replicate its **immersive visuals**, **smooth transitions**, and **interactive user experience**.
 
-> 🎯 This project is a visual and technical tribute to the original site by Rejouice, a world-class creative agency.
+> 🎯 This project is a visual and technical tribute to the original site by Rejouice, a world-class creative agency..
 
 ---
 
